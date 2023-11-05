@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import { marked } from  'marked';
-import DOMPurify from 'dompurify';
+import React, { useState } from 'react'
+import { marked } from  'marked'
+import DOMPurify from 'dompurify'
 
 import './App.css'
 
