@@ -1,4 +1,4 @@
-# markdown-live-preivew
+# markdown-live-preview
 
 Based on [Mayanwolfe](https://www.twitch.tv/mayanwolfe)'s twitch
 [livestream ](https://www.twitch.tv/videos/1969672680), built a markdown
